@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/29 16:34:47.000.806,=C:\Users\RODRIGO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 04:49:34.000.751,=C:\Users\RODRIGO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/01 10:20:42.000.749,=C:\Users\RODRIGO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/12 21:45:29.000.875,=C:\Users\RODRIGO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/21 17:21:11.000.708,=C:\Users\RODRIGO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/21 17:22:00.000.866,C:\Users\RODRIGO\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Login.pas</Transaction>
+    <Transaction>2020/02/21 17:22:00.000.866,C:\Users\RODRIGO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Login.dfm</Transaction>
+    <Transaction>2020/02/21 17:22:11.000.960,C:\Users\RODRIGO\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\RODRIGO\Desktop\SIS_BD\SIS_BD.dproj</Transaction>
+    <Transaction>2020/02/22 08:38:24.000.806,=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/02/22 08:39:09.000.552,C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Tela_Principal.dfm=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.dfm</Transaction>
+    <Transaction>2020/02/22 08:39:09.000.552,C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Tela_Principal.pas=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/02/22 09:15:40.000.316,=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/02/22 09:16:09.000.616,C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Clientes.dfm=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.dfm</Transaction>
+    <Transaction>2020/02/22 09:16:09.000.616,C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Clientes.pas=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/02/23 11:28:56.000.041,=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/02/23 11:30:21.000.117,C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\frm_ItensCadastros.pas</Transaction>
+    <Transaction>2020/02/23 11:30:21.000.117,C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.dfm=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\frm_ItensCadastros.dfm</Transaction>
+    <Transaction>2020/02/23 11:33:45.000.542,C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\frm_ItensCadastros.pas=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Itenscadastros.pas</Transaction>
+    <Transaction>2020/02/23 11:33:45.000.542,C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\frm_ItensCadastros.dfm=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Itenscadastros.dfm</Transaction>
+    <Transaction>2020/02/23 14:35:33.000.772,=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/02/23 15:02:44.000.620,C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.dfm=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_CadPro.dfm</Transaction>
+    <Transaction>2020/02/23 15:02:44.000.620,C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_CadPro.pas</Transaction>
+    <Transaction>2020/02/24 21:15:23.000.341,=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/02/24 21:16:03.000.037,C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.dfm=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Configuracoes.dfm</Transaction>
+    <Transaction>2020/02/24 21:16:03.000.037,C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Configuracoes.pas</Transaction>
+    <Transaction>2020/02/24 21:20:59.000.333,=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/02/24 21:23:07.000.546,C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.dfm=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Usuarios.dfm</Transaction>
+    <Transaction>2020/02/24 21:23:07.000.546,C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas=C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_Usuarios.pas</Transaction>
+    <Transaction>2020/03/03 12:03:31.633,=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/03/03 12:03:53.582,C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_CadServicos.pas=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.pas</Transaction>
+    <Transaction>2020/03/03 12:03:53.582,C:\Users\RODRIGO\Desktop\SIS_BD\U_Telas\U_CadServicos.dfm=C:\Users\RODRIGO\Desktop\SIS_BD\Unit1.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="U_Telas"/>
+    <File Path="U_Telas\U_CadPro.pas"/>
+    <File Path="U_Telas\U_CadPro.dfm"/>
+    <File Path="U_Telas\U_Clientes.pas"/>
+    <File Path="U_Telas\U_Clientes.dfm"/>
+    <File Path="U_Telas\U_Itenscadastros.pas"/>
+    <File Path="U_Telas\U_Itenscadastros.dfm"/>
+    <File Path="U_Telas\U_Login.pas"/>
+    <File Path="U_Telas\U_Login.dfm"/>
+    <File Path="U_Telas\U_Tela_Principal.pas"/>
+    <File Path="U_Telas\U_Tela_Principal.dfm"/>
+    <File Path="U_Telas\U_Configuracoes.pas"/>
+    <File Path="U_Telas\U_Configuracoes.dfm"/>
+    <File Path="U_Telas\U_Usuarios.pas"/>
+    <File Path="U_Telas\U_Usuarios.dfm"/>
+    <File Path="U_Telas\U_CadServicos.pas"/>
+    <File Path="U_Telas\U_CadServicos.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
